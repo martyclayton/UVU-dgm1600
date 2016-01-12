@@ -1,0 +1,14 @@
+Kevin Clemons - Quiz 1
+
+What is a Variable?
+Storage container for data to be used later.
+
+What is declaration and initalization? Provide an example.
+Declaration - Assigning space and a name to a variable.
+Initialization - Assigning a value to the variable.
+Example: string name = "Kevin";
+
+List two variable types:
+String - a sequence of characters. "Kevin"
+Float - A decimal number. 3.1415
+
